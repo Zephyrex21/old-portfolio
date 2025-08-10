@@ -49,6 +49,6 @@ It includes a collection of live projects with a focus on responsive design, smo
 - **Name:** Saurabh Raj Shekhar  
 - **Email:** shekharsaurabhraj@gmail.com 
 - **Instagram:** [@_ek.shayarr](https://instagram.com/_ek.shayarr) | [@_faded.trails](https://instagram.com/_faded.trails)  
-- **GitHub:** [driifth](https://github.com/inferno2136)
+- **GitHub:** [inferno](https://github.com/inferno2136)
 
 ---
