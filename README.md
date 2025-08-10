@@ -41,8 +41,6 @@ It includes a collection of live projects with a focus on responsive design, smo
 ---
 
 ## 📸 Preview
-*(Add a screenshot of your portfolio here for better presentation)*  
-Example:  
 ![Portfolio Screenshot](assets/preview.png)
 
 ---
