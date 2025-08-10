@@ -36,7 +36,7 @@ It includes a collection of live projects with a focus on responsive design, smo
 ---
 
 ## 📍 Live Demo
-🔗 [Netlify Site](https://saurabh-creations.netlify.app/)
+🔗 [Demo](https://saurabh-creations.netlify.app/)
 
 ---
 
