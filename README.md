@@ -41,7 +41,7 @@ It includes a collection of live projects with a focus on responsive design, smo
 ---
 
 ## 📸 Preview
-![Portfolio Screenshot](assets/preview.png)
+![Portfolio Screenshot](https://github.com/user-attachments/assets/e3b614b6-7e38-462e-8250-f6a874bf0391)
 
 ---
 
