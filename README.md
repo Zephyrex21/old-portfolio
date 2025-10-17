@@ -36,14 +36,12 @@ It includes a collection of live projects with a focus on responsive design, smo
 ---
 
 ## 📍 Live Demo
-🔗 [View Portfolio](https://your-live-link.com)
+🔗 [Demo](https://saurabh-creations.netlify.app/)
 
 ---
 
 ## 📸 Preview
-*(Add a screenshot of your portfolio here for better presentation)*  
-Example:  
-![Portfolio Screenshot](assets/preview.png)
+![Portfolio Screenshot](https://github.com/user-attachments/assets/e3b614b6-7e38-462e-8250-f6a874bf0391)
 
 ---
 
@@ -51,6 +49,6 @@ Example:
 - **Name:** Saurabh Raj Shekhar  
 - **Email:** shekharsaurabhraj@gmail.com 
 - **Instagram:** [@_ek.shayarr](https://instagram.com/_ek.shayarr) | [@_faded.trails](https://instagram.com/_faded.trails)  
-- **GitHub:** [driifth](https://github.com/inferno2136)
+- **GitHub:** [inferno](https://github.com/inferno2136)
 
 ---
