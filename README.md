@@ -1,4 +1,4 @@
-# personal Portfolio ( Old )
+# Personal Portfolio ( Old )
 
 Personal portfolio website showcasing my creative web development projects, featuring **XafraPay**, **TorqueForge**, **Auréa Interiors**, and **Architex**.  
 Built with **HTML**, **CSS**, **Tailwind CSS**, and **JavaScript** to highlight my skills, design approach, and interactive web experiences.
