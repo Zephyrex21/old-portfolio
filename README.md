@@ -6,7 +6,7 @@ Built with **HTML**, **CSS**, **Tailwind CSS**, and **JavaScript** to highlight 
 ---
 
 ## Live Demo
-🔗 [Demo](https://saurabh-creations.netlify.app/): https://saurabh-creations.netlify.app/
+🔗 [Demo] https://saurabh-creations.netlify.app/
 
 ---
 
